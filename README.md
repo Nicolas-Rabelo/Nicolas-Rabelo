@@ -18,6 +18,6 @@
   <a href = "mailto:nicolasrabelo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/nicolas-rabelo/nicolas-rabelo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Nicolas-Rabelo/Nicolas-Rabelo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
